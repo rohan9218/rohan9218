@@ -1,4 +1,4 @@
-Hi 👋 My name is Rohan Desai
+Hi, My name is Rohan Desai
 ============================
 
 Full Stack Developer
